@@ -1,4 +1,4 @@
-## <h1>Oiii! eu sou a Patrícia Lima 🥰</h1>
+## <h1>Oiiie! eu sou a Patrícia Lima 🥰</h1>
 
 - ⚡ Estou estudando JavaScript
 - 😄 Pronomes: ela/dela 
