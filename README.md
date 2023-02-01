@@ -1,7 +1,7 @@
 ## <h1>Oiiie! eu sou a Patrícia Lima 🥰</h1>
 
 - 🥰  Faço Anáise e Desenvolvimento de Sistemas
-- ⚡  Estou estudando a linguagem de programação JavaScript
+- ⚡  Estou estudando a linguagem de programação JavaScript e Ruby
 - 😄  Pronomes: ela/dela 
 
 <div align="center">
