@@ -1,7 +1,7 @@
-## <h1>Oiiie! eu sou a Patrícia Lima 🥰</h1>
+## <h1>Patrícia Lima 🥰</h1>
 
 - 🥰  Faço Anáise e Desenvolvimento de Sistemas
-- ⚡  Estou estudando a linguagem de programação C#
+- ⚡  Linguagens: C#, JAVA, HTML, CSS E REACT 
 - 😄  Pronomes: ela/dela 
 
 <div align="center">
