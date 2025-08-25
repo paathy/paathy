@@ -1,7 +1,7 @@
 ## <h1>Patrícia Lima 🥰</h1>
 
 - 🥰  Faço Anáise e Desenvolvimento de Sistemas
-- ⚡  Linguagens: C#, JAVA, HTML, CSS E REACT 
+- ⚡  Linguagens: C#, JAVA, JavaScript, HTML, CSS E REACT 
 - 😄  Pronomes: ela/dela 
 
 <div align="center">
