@@ -2,7 +2,7 @@
 
 - 🥰  Faço Anáise e Desenvolvimento de Sistemas
 - ⚡  Linguagens: C#, JAVA, JavaScript, HTML, CSS E REACT 
-- 😄  Portifólio do meu último projeto <https://pathydev-flexbox.vercel.app/>
+- 😄  Meu portifólio <https://pathydev-flexbox.vercel.app/>
 
 <div align="center">
   <a href="https://github.com/paathy">
